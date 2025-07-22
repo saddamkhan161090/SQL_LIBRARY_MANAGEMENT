@@ -1,0 +1,51 @@
+Book_id,Title,Author,Publisher,year_published,quantity_available
+1,sql for beginners,john smith,techworld,2019,5
+2,mastering sql,john doe,codehouse,2020,3
+3,database concepts,thomas  connolly,pearson,2018,4
+4,learning Mysql,sayed abubakar,reilly media,2019,6
+5,sql cookbook,anthony molinaro,reilly media,2021,2
+6,t- sql fundamentals,itzik ben-gan,microsoft press,2022,3
+7,oracle pl/sql,steven smith,reilly media,2017,2
+8,beginning database design,clare churcher,apress,2016,5
+9,database system concepts,abraham silberschatz,mcgraw-hill,2021,4
+10,no sql distilled,pramod j sadalage,addison-wesley,2020,3
+11,mongoDB:the definitive guide,kristina chodorow,reilly media,2019,5
+12,mysql 8 administrators guide,charles bell,packt publishing,2021,4
+13,postgresql up & running,regina obe,reilly media,2022,3
+14,advanced sql queries,ben forta,sams publishing,2018,6
+15,relational database design,jan L. harrington,morgan kaufmann,2019,2
+16,data modelling made simple,steve hoberman,technics publications,2021,3
+17,sql in 10 minutes,ben forta,sams publishing,2020,5
+18,data science with sql,mark hammond,datapress,2021,4
+19,database management system,raghu ramakrishnan,mcgraw-hill,2020,5
+20,sql:visual quickstart guide,chris fehily,peachpit press,2017,6
+21,essential sqlAlchemy,rick copeland,reilly media,2018,2
+22,sql server 2019 revealed,bob ward,apress,2019,3
+23,beginning sql server 2012,robin dewson,apress,2020,2
+24,sql pocket guide,alice zhao,reilly media,2021,5
+25,modern database management,jeffrey hoffer,pearson,2019,4
+26,big data analytics,seema acharya,wiley india,2020,3
+27,data warehousing in the age of big data,krish krishnan,morgan kaufmann,2019,4
+28,learning sql server,kalman toth,tothpress,2021,3
+29,sql programming style,joe celko,morgan kaufmann,2020,2
+30,sql and relational theory,c.j.date,reilly media,2022,3
+31,mysql for database administrators,rick silva,packt publishing,2018,4
+32,oracle essentials,rick greenwald,reilly media,2017,5
+33,learning postgresql,salahaldin juba,packt publishing,2020,2
+34,database management for researchers,kristin briney,pelagic publishing,2021,3
+35,applied sql,atef bader,apress,2022,4
+36,sql and pl/sql for developers,michael mclaughlin,oracle press,2019,3
+37,sql performance explained,markus winand,red gate,2020,5
+38,database internals,alex petrov,reilly media,2021,4
+39,data structures with sql,alok ranjan,bpb publications,2020,3
+40,practical sql,anthony debarros,no starch press,2018,4
+41,learning sql ,alan bauleiu,reilly media,2022,5
+42,the data warehouse toolkit,ralph kimball,wiley,2021,3
+43,etl with azure datafactory,christian cote,packt publishing,2021,2
+44,designing data intensive application,martin klepmann,reilly media,2019,3
+45,the art of sql,stephen faroult,reilly media,2018,2
+46,microsoft sql server 2019,randolph west,microsoft press,2020,5
+47,postgresql up & running,regina obe,reilly media,2021,4
+48,sql: a beginners guide,andy oppel,mcgraw-hill,2019,3
+49,hands on sql,paul wilton,wrox,2020,4
+50,sql for data analytics,upom malik,packt publishing,2021,2
